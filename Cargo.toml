@@ -1,0 +1,9 @@
+[package]
+name = "n_body"
+version = "0.1.0"
+authors = ["eric <theHooloovoo@protonmail.com>"]
+
+[dependencies]
+getopts = "0.2"
+rayon = "0.8.2"
+rand = "0.3.0"
